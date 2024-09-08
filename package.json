@@ -1,6 +1,6 @@
 {
   "name": "prenext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pre-compiler for Next.config.js files",
   "license": "MIT",
   "author": "CJ",
