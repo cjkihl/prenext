@@ -1,0 +1,17 @@
+{
+  "name": "prenext",
+  "version": "0.1.0",
+  "description": "A pre-compiler for Next.config.js files",
+  "license": "MIT",
+  "author": "CJ",
+  "bin": {
+    "nexts": "./index.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.23.1",
+    "esbuild-node-externals": "^1.14.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
