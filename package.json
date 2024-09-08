@@ -3,7 +3,6 @@
   "version": "0.1.1",
   "description": "A pre-compiler for Next.config.js files",
   "license": "MIT",
-  "author": "CJ",
   "bin": {
     "nexts": "./index.js"
   },
@@ -13,5 +12,13 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjkihl/prenext"
+  },
+  "author": {
+    "name": "CJ",
+    "npm": "caki0915"
   }
 }
