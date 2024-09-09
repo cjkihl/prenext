@@ -4,7 +4,7 @@
   "description": "A pre-compiler for Next.config.js files",
   "license": "MIT",
   "bin": {
-    "nexts": "./index.js"
+    "prenext": "./index.js"
   },
   "dependencies": {
     "esbuild": "^0.23.1",
